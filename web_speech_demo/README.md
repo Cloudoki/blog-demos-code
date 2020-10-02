@@ -1,6 +1,6 @@
 # Web Speech Demo Code
 
-Repository with the code for the blog post: [Page Scroller using Web Speech API](https://blog.cloudoki.com)
+Repository with the code for the blog post: [Page Scroller using Web Speech API](https://blog.cloudoki.com/page-scroller-using-web-speech-api)
 
 ## Run project
 
