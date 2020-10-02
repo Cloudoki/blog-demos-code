@@ -1,0 +1,20 @@
+body {
+	background-color: #070919;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.container {
+	margin-top: 5%;
+}
+
+.lipsum {
+	margin-top: 15%;
+}
+
+.scroller {
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	color: #FFFFFF;
+}
